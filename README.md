@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on JAVA
+- 🔭 I’m currently working on Pyhton
 - 🌱 I’m currently learning PHP
 - 🤔 I’m looking for help with 
 - 💬 Ask me about 
