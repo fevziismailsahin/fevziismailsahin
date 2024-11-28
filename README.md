@@ -16,11 +16,11 @@ With a strong focus on backend development, data science, and mobile technologie
 ---
 
 ## 🛠️ Technologies & Tools:
-- **Languages:** Python, Dart, SQL  
-- **Backend:** Django, Firebase  
-- **Mobile:** Flutter
+- **Languages:** Java, Python, Dart, SQL  
+- **Backend:** Django, Firebase, Spring  
+- **Mobile:** Flutter,
 - **Data Science Tools:** Pandas, NumPy, Matplotlib, Scikit-learn  
-- **Databases:** MySQL, PostgreSQL  
+- **Databases:** MySQL, PostgreSQL, SQLite
 - **Tools:** Docker, Git, VS Code  
 
 ---
