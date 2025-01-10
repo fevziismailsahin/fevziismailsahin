@@ -1,7 +1,9 @@
-# 👋 Hi, I'm Fevzi!
+# 👋 Hi, I'm Fevzi
 
-A **Python developer** and **mobile app enthusiast**, passionate about creating innovative solutions. 🎯  
-With a strong focus on backend development, data science, and mobile technologies, I'm constantly learning and building.
+A **Python developer** and **mobile app enthusiast**,  
+passionate about creating innovative solutions. 🎯  
+With a strong focus on backend development, data science,  
+and mobile technologies, I'm constantly learning and building.
 
 ---
 
@@ -34,8 +36,10 @@ With a strong focus on backend development, data science, and mobile technologie
 
 ## 🌍 Connect with Me
 
-- 💼 **LinkedIn:** [Fevzi's LinkedIn Profile](https://www.linkedin.com/in/fevzi-sahin-a5b37820b/)  
-- ✉️ **Email:** [fevziismailsahin@gmail.com](mailto:fevziismailsahin@gmail.com)
+- 💼 **LinkedIn:**  
+  [Fevzi's LinkedIn Profile](https://www.linkedin.com/in/fevzi-sahin-a5b37820b/)  
+- ✉️ **Email:**  
+  [fevziismailsahin@gmail.com](mailto:fevziismailsahin@gmail.com)
 
 ---
 
