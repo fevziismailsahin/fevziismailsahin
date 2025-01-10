@@ -20,7 +20,7 @@ With a strong focus on backend development, data science, and mobile technologie
 - **Backend:** Django, Firebase  
 - **Mobile:** Flutter,
 - **Databases:** PostgreSQL, SQLite
-- **Tools:**  Git, VS Code
+- **Tools:**  Git, GitHub, VS Code
 
 ---
 
