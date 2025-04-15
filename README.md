@@ -37,7 +37,7 @@ and mobile technologies, I'm constantly learning and building.
 ## 🌍 Connect with Me
 
 - 💼 **LinkedIn:**  
-  [Fevzi's LinkedIn Profile](www.linkedin.com/in/fevzi-ismail-şahin-a5b37820b)  
+  [Fevzi's LinkedIn Profile](https://www.linkedin.com/in/fevzi-ismail-şahin-a5b37820b)  
 - ✉️ **Email:**  
   [fevziismailsahin@gmail.com](mailto:fevziismailsahin@gmail.com)
 
