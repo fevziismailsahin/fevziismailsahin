@@ -28,7 +28,7 @@ and mobile technologies, I'm constantly learning and building.
 
 ---
 
-## 📈 GitHub Stats
+## 📊 My Stats
 
 <div align="center">
 
