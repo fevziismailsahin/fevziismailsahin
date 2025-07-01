@@ -30,6 +30,8 @@ and mobile technologies, I'm constantly learning and building.
 
 ## 📈 GitHub Stats
 
+<div align="center">
+
 ![Fevzi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fevziismailsahin&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fevziismailsahin&theme=radical&layout=donut)
