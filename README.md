@@ -34,8 +34,6 @@ and mobile technologies, I'm constantly learning and building.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fevziismailsahin&theme=radical&layout=donut)
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=fevziismailsahin&theme=radical)
-
 ---
 
 ## 🌍 Connect with Me
