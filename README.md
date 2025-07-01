@@ -32,9 +32,9 @@ and mobile technologies, I'm constantly learning and building.
 
 <div align="center">
 
-![Fevzi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fevziismailsahin&show_icons=true&theme=radical)
+![Fevzi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fevziismailsahin&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fevziismailsahin&theme=radical&layout=donut)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra\&layout=compact)
 
 ---
 
