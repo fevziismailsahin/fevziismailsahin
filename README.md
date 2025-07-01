@@ -28,9 +28,13 @@ and mobile technologies, I'm constantly learning and building.
 
 ---
 
-## 📊 My Stats
+## 📈 GitHub Stats
 
 ![Fevzi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fevziismailsahin&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fevziismailsahin&theme=radical&layout=donut)
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=fevziismailsahin&theme=radical)
 
 ---
 
