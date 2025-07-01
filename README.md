@@ -10,7 +10,7 @@
 | ![Fevzi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fevziismailsahin&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fevziismailsahin&layout=compact&theme=buefy&hide_border=true) |
 |------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
 
-## 📬 Get in Touch
+## Get in Touch
 
 - [LinkedIn](https://www.linkedin.com/in/fevzi-ismail-şahin-a5b37820b)
 - [fevziismailsahin@gmail.com](mailto:fevziismailsahin@gmail.com)
