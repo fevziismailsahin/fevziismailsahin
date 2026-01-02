@@ -1,7 +1,7 @@
 # Hi, I'm Fevzi
 
 - **Currently Working On:**  
-  - Backend development (Rust, Python, JavaScript)
+  - Backend development (Rust, Python, Type/JavaScript, C)
   - Data science and machine learning projects
 
 - **Currently Learning:** How to work smarter with data and APIs
