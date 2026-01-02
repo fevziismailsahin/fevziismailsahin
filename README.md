@@ -8,11 +8,10 @@
 - **Currently Learning:** How to work smarter with data and APIs  
 - **Interests:** Full Stack, Embedded Systems, AI, Data Science
 
-![Animated GitHub Stats](https://animated-profile-stats.vercel.app/api/card?username=fevziismailsahin&type=fire)
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=fevziismailsahin&show_icons=true&theme=buefy)
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=fevziismailsahin&layout=compact&theme=buefy)
+![Followers](https://img.shields.io/github/followers/fevziismailsahin)
+![Stars](https://img.shields.io/github/stars/fevziismailsahin)
+![Repos](https://img.shields.io/github/repos/fevziismailsahin)
 
 ## Get in Touch
 
