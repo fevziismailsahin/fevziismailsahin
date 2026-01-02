@@ -9,10 +9,6 @@
 - **Interests:** Full Stack, Embedded Systems, AI, Data Science
 
 
-![Followers](https://img.shields.io/github/followers/fevziismailsahin)
-![Stars](https://img.shields.io/github/stars/fevziismailsahin)
-![Repos](https://img.shields.io/github/repos/fevziismailsahin)
-
 ## Get in Touch
 
 - [LinkedIn](https://www.linkedin.com/in/fevzi-ismail-şahin-a5b37820b)  
